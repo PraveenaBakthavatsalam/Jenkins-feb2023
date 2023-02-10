@@ -16,4 +16,8 @@ public class Application_Tests {
     public void test3() {
         System.out.println("trying Jenkins");
     }
+    @Test
+    public void test4() {
+        System.out.println("trying Jenkins again");
+    }
 }
